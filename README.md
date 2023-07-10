@@ -6,7 +6,7 @@
 
 ### Education:
 
-- 🎓 &nbsp; Information Technology (Bachelor of Science),<br> Faculty of Informatics, Burapha University.
+- 🎓 Information Technology (Bachelor of Science),<br> Faculty of Informatics, Burapha University.
 
 
 ### GitHub Stats:
