@@ -1,7 +1,7 @@
 ## Hello 👋, I'm [Suphawit W!](https://github.com/suphawit-git/)
 
 [![GitHub Badge](https://img.shields.io/badge/Suphawit-Git-%3CCOLOR%3E?logo=github&labelColor=1A4FD5&color=6AC068)](https://github.com/suphawit-git)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suphawit-wt)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suphawit-wt)
 
 
 ### GitHub Stats:
