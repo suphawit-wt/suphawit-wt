@@ -8,6 +8,9 @@
 
 - 🎓 Information Technology (Bachelor of Science),<br> Faculty of Informatics, Burapha University.
 
+### Experience:
+
+- 💼 Back-end Developer (Internship), A-HOST Company Limited.<br> Dec 2021 - Mar 2022 (4 months)
 
 ### GitHub Stats:
 
