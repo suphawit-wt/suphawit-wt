@@ -6,7 +6,8 @@
 
 ### GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suphawit-git&theme=transparent&hide_border=false)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suphawit-git&show_icons=true&theme=transparent)
+
 ![GitHub Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suphawit-git&layout=compact&hide=html,css,scss,sass&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suphawit-git&theme=transparent&hide_border=false)
