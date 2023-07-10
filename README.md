@@ -4,6 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suphawit-wt)
 
 
+### Education:
+
+- 🎓 &nbsp; Information Technology (Bachelor of Science),<br> Faculty of Informatics, Burapha University.
+
+
 ### GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suphawit-git&show_icons=true&theme=transparent)
