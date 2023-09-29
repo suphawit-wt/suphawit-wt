@@ -17,4 +17,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suphawit-git&show_icons=true&theme=transparent)
 ![GitHub Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suphawit-git&layout=compact&hide=html,css,scss,sass,hack,dockerfile&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suphawit-git&theme=transparent&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=suphawit-git&theme=transparent&hide_border=false)
