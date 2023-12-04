@@ -15,6 +15,6 @@
 ### GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suphawit-wt&show_icons=true&theme=transparent)
-![GitHub Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suphawit-wt&layout=compact&hide=html,css,scss,sass,hack,dockerfile&theme=transparent&size_weight=1&count_weight=0&langs_count=8)
+![GitHub Stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suphawit-wt&layout=compact&hide=html,css,scss,sass,hack,dockerfile&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=java-fundamental-quiz)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suphawit-wt&theme=transparent&hide_border=false)
