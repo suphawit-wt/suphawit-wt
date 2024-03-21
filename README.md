@@ -1,5 +1,6 @@
-## Hello 👋, I'm [Suphawit Watthanataetakun](https://github.com/suphawit-wt)
+## Hello 👋, I'm [Suphawit Watthanataetakun](https://suphawit.dev)
 
+[![Website Badge](https://img.shields.io/badge/Web-suphawit.dev-236CE7?labelColor=4589D3)](https://suphawit.dev)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-32c766?logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/suphawit_wt)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://linkedin.com/in/suphawit-wt)
 
